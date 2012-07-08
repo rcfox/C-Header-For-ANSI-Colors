@@ -24,4 +24,4 @@ int main()
 	return 0;
 }
 
-COMPILE_MESSAGE(COLORIZE("Note: The above messages are just to show that colors can be used at compile-time too.",GREEN,BOLD));
+COMPILE_MESSAGE(COLORIZE("Note: The above messages are just to show that colors can be used at compile-time too.",GREEN,BOLD))

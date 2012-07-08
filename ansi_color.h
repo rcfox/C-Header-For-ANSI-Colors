@@ -21,7 +21,7 @@
 #ifndef ANSI_COLOR_H
 #define ANSI_COLOR_H
 
-#define COLOR_PREFIX     "\e["
+#define COLOR_PREFIX     "\x1B["
 #define COLOR_SEP        ";"
 #define COLOR_SUFFIX     "m"
 
